@@ -1,4 +1,7 @@
 # nestproject
+
+[Link google docs]([url](https://docs.google.com/document/d/1HHSefmbt1z6s60IAsNtcWpGlvAID6GjFeK5Pkq14RWQ/edit?usp=sharing))
+
 Сервіс з генерування рецептів
 
 Допомагає користувачам знаходити рецепти страв за наявними інгредієнтами
